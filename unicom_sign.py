@@ -10,9 +10,9 @@ import base64
 from requests import post
 
 # 此处改为自己的配置 手机号, 密码, appId
-phone = 'xxx'
-password = 'xxx'
-pid = 'xxx'
+phone = '13244882020'
+password = '637311'
+pid = '247b001385de5cc6ce11731ba1b1583540ff9ef4eb64d9648ac63c1d438be32fc321968852b5101c823e80f25f715cfefe11a898aa8275b2d3f2d172acb27eb1'
 
 # TG配置
 TG_TOKEN = 'xxx'  # TG机器人的TOKEN
